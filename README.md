@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammad GelimBaf</h1>
-<h3 align="center">A passionate backend developer with Django</h3>
+<!-- <h3 align="center">A passionate backend developer with Django</h3> -->
+
+```js
+bio = {
+    Name: "Mohammad GelimBaf",
+    Position: "BackEnd Developer",
+    MainStack: "Python, Django",
+    ResidencePlace: "Tehran",
+    DoB: "February 2004",
+}
+```
 
 - 🌱 I’m currently learning **Django**
 
